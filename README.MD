@@ -8,9 +8,8 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
-Repositório desenvolvido durante um BootCamp de "Fundamentos de IA para Devs" patrocinado pelo Santander da plataforma DIO.
+Repositório desenvolvido durante um BootCamp de "Fundamentos de IA para Devs" patrocinado pelo Santander da plataforma DIO. O projeto visava gerar um Ebook digital usando Engenharia de Prompts, buscando desenvolver o uso das ferramentas de IA.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Os prompts utilizados estão presentes no repositório.
 
 <a href="https://github.com/vitsantos/prompts-recipe-to-create-a-ebook/blob/main/output/EBook%20-%20O%20Pr%C3%ADncipe%20das%20Serpentes%20Dominando%20Python.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
