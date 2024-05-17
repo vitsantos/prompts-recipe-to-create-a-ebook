@@ -49,21 +49,8 @@ Adobe Firefly：
 | :----: | -------------------------------------------------------------------------------------- |
 | título |Firefly a prince dominating a python, using the colors blue and yellow, only one background collor|
 
-## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Adobe Firefly
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
+## 👨‍💻 Feito por:
 
 <p>
     <img 
@@ -72,7 +59,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/126416070?s=400&u=2db85523df4568547c5e23a55f8ff10c70f85873&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspVitória Emilly<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/vitsantos">
     GitHub</a>&nbsp;|&nbsp;
@@ -86,6 +73,3 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <br/><br/>
 <p>
 
----
-
-por [FVitória Emilly](https://github.com/vitsantos)
